@@ -59,6 +59,6 @@ Do it from the CLI : Pip install –U pytest
 
 https://docs.pytest.org/en/latest/contents.html
 
-[Download the script repository from my Git Repo](https://github.com/chinmaya1155/Selenium-Python)
+Download the script repository from my Git Repo [here](https://github.com/chinmaya1155/Selenium-Python)
 
 Download Git: https://git-scm.com/downloads
