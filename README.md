@@ -19,3 +19,12 @@ This is the Content that we will discuss and understand step by step how we can 
 As i have already installed Pycharm i opted for plugin install EduTools. Pycharm Edu is free & open source.
 Learn Programming [here](https://www.jetbrains.com/academy/) & Choose your track as Python. 
 Next Verify the installation from CLI and System Directory and ensure Python has been installed.
+
+### Installing Selenium Libraries
+Install Selenium Libraries for Python
+This is the command: pip install –U selenium
+
+Alternatives: 
+[https://selenium-python.readthedocs.io/installation.html]
+[https://pypi.org/project/selenium/]
+Lib and script folders updated with selenium packages
