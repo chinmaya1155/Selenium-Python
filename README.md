@@ -14,7 +14,7 @@ This is the Content that we will discuss and understand step by step how we can 
 ### Download Python
 [Download Python here](https://www.python.org/downloads/)
 
-[For more Learning](https://www.jetbrains.com/pycharm-edu/)
+[For more Learning and handon practice on Python Code](https://www.jetbrains.com/pycharm-edu/)
 
 As i have already installed Pycharm i opted for plugin install EduTools. Pycharm Edu is free & open source.
 Learn Programming [here](https://www.jetbrains.com/academy/) & Choose your track as Python.
