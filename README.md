@@ -41,12 +41,16 @@ Write a simple code to check it works after project setting done.
 Let’s download Chrome, IE and Firefox Drivers
 
 https://www.selenium.dev/downloads/
+
 https://pypi.org/project/selenium/
 
 For MS Edge browser: https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
+
 Knowledge Portal: https://github.com/SeleniumHQ/selenium/wiki/InternetExplorerDriver#required-configuration
+
 Sample Demo Application can be used which are open source: 
 
 http://newtours.demoaut.com/
+
 https://opensource-demo.orangehrmlive.com/
 
