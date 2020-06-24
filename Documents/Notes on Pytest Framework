@@ -1,0 +1,30 @@
+# Why Pytest
+
+* the most famous unit test framework
+* to reduce the cost of change
+* faster debugging
+* fast development
+* better test designing
+* to reduce bug in new feature
+
+## change the pycharm setting>tools>python integrated tools>testing: pytest (once pytest installed in pycharm)
+
+### what commands you can perform using pytest
+* pytest -h (help in CLI gives all the options)
+* pytest will run all files of the form test_*.py or *_test.py in the current directory and its subdirectories.(pytest unit test format)
+* else explicitly specify the file name like : pytest xyz.py (only then it will be treated as pytest unit test and it will execute)
+
+#### Run pytest using: pytest <test name>, pytest -v, pytest <directory name>
+
+#### if you want to run only one portion of code to check the code is working or not instead of entire code >> pytest test_math-function.py::test_add
+
+* pytest -k "matching key work" (to run matching test cases/functions in the main programe) you can say filter (and or etc)
+* pytest -m <mark> only the marked test cases will run
+* pytest -v -x (to exit when encounter the failure, not continue the further test)
+* pytest -x --tb=no (exit when failure encounter with no stacktrace)
+* pytest -v --maxfail=2 (execute till maxfail 2 then exit)
+* -s (to print the print statements)
+* -q (quite mode)
+
+
+There are much more and one should keep exploring them. I have provided the link on the PPT.
