@@ -10,3 +10,55 @@ This is the Content that we will discuss and understand step by step how we can 
 * Some Knowledge Portals.
 * PyTest Framework.
 * Versioning with GitHub.
+
+### Download Python
+[Download Python here](https://www.python.org/downloads/)
+
+[For more Learning and handon practice on Python Code](https://www.jetbrains.com/pycharm-edu/)
+
+As i have already installed Pycharm i opted for plugin install EduTools. Pycharm Edu is free & open source.
+Learn Programming [here](https://www.jetbrains.com/academy/) & Choose your track as Python. 
+Next Verify the installation from CLI and System Directory and ensure Python has been installed.
+
+### Installing Selenium Libraries
+Install Selenium Libraries for Python
+This is the command: pip install –U selenium
+
+Alternatives: 
+
+https://selenium-python.readthedocs.io/installation.html
+
+https://pypi.org/project/selenium/
+
+Lib and script folders updated with selenium packages
+
+### PyCharm IDE and WebDrivers...
+[Install PyCharm IDE](https://www.jetbrains.com/pycharm/download)
+
+Check selenium library and settings (Pre requisites)
+Write a simple code to check it works after project setting done.
+
+Let’s download Chrome, IE and Firefox Drivers
+
+https://www.selenium.dev/downloads/
+
+https://pypi.org/project/selenium/
+
+For MS Edge browser: https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
+
+Knowledge Portal: https://github.com/SeleniumHQ/selenium/wiki/InternetExplorerDriver#required-configuration
+
+Sample Demo Application can be used which are open source: 
+
+http://newtours.demoaut.com/
+
+https://opensource-demo.orangehrmlive.com/
+
+### Pytest Framework
+Do it from the CLI : Pip install –U pytest
+
+https://docs.pytest.org/en/latest/contents.html
+
+Download the script repository from my Git Repo [here](https://github.com/chinmaya1155/Selenium-Python)
+
+Download Git: https://git-scm.com/downloads
