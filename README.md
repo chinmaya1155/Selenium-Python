@@ -31,3 +31,22 @@ https://selenium-python.readthedocs.io/installation.html
 https://pypi.org/project/selenium/
 
 Lib and script folders updated with selenium packages
+
+### PyCharm IDE and WebDrivers...
+[Install PyCharm IDE](https://www.jetbrains.com/pycharm/download)
+
+Check selenium library and settings (Pre requisites)
+Write a simple code to check it works after project setting done.
+
+Let’s download Chrome, IE and Firefox Drivers
+
+https://www.selenium.dev/downloads/
+https://pypi.org/project/selenium/
+
+For MS Edge browser: https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
+Knowledge Portal: https://github.com/SeleniumHQ/selenium/wiki/InternetExplorerDriver#required-configuration
+Sample Demo Application can be used which are open source: 
+
+http://newtours.demoaut.com/
+https://opensource-demo.orangehrmlive.com/
+
