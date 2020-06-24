@@ -10,3 +10,12 @@ This is the Content that we will discuss and understand step by step how we can 
 * Some Knowledge Portals.
 * PyTest Framework.
 * Versioning with GitHub.
+
+### Download Python
+[Download Python here](https://www.python.org/downloads/) 
+[For more Learning] (https://www.jetbrains.com/pycharm-edu/)
+
+As i have already installed Pycharm i opted for plugin install EduTools. Pycharm Edu is free & open source.
+Learn Programming [here] (https://www.jetbrains.com/academy/) (Choose your track as Python)
+
+Verify the installation from CLI and System Directory.
