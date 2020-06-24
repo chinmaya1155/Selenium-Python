@@ -25,6 +25,9 @@ Install Selenium Libraries for Python
 This is the command: pip install –U selenium
 
 Alternatives: 
-[https://selenium-python.readthedocs.io/installation.html]
-[https://pypi.org/project/selenium/]
+
+https://selenium-python.readthedocs.io/installation.html
+
+https://pypi.org/project/selenium/
+
 Lib and script folders updated with selenium packages
